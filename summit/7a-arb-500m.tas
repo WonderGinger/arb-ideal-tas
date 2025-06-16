@@ -1,0 +1,362 @@
+## main
+console load 7 2843 -1064
+   1
+  36
+
+#lvl_a-05
+  14,R,Z
+   1,R,J
+  11,R,D,X
+  40
+
+#lvl_a-06
+   6,R
+  15,R,J
+  45,R
+  15,R,U,X
+  15,R,C
+   5,R
+  43,R
+   9,R,U,X
+  20,L
+  15,L,X
+  27,L,D
+  15,L,Z
+   4,L
+  38
+  15,U,X
+  12,L,U,C
+   7,R
+  15,R,X
+  15,R,D,C
+ 159
+   1,S
+   1,D,J
+ 141
+##
+
+#lvl_b-00
+  76
+   8,L,J
+  13,L,X
+  21,L,J
+  14,U,X
+   4,R,J
+  14,J
+  15,U,X
+  19,R,J
+  40
+
+#lvl_b-01
+  10,J
+  14,U,X
+   4,R,J
+   5
+  13,R,Z
+   6,R,J
+  12,R
+  15,R,Z
+   9,U,X
+   7
+  15,R,D,X
+  15,R,C
+  12,R
+   7,L,D
+  13,R
+  15,R,U,X
+  15,R,C
+  25,R
+  10,R,D
+   4,R,Z
+   2,R,J
+   7,R
+  40
+
+#lvl_b-02 (0)
+   1,R
+   6,R,J
+  13,R,D,X
+  18,R,J
+  15,R,U,X
+  16,U,C
+  12,R,J
+   8,R
+   8
+   4,L,Z
+  30,L,J
+  12,L,K,G
+  12,J,G
+  21,L,D
+  15,L,Z
+   6
+  16,U,X
+   8,L,J
+   3,L
+  10,R,X
+  23,R,J,G
+  15,U,X
+  15,U,C
+  18,L
+   4,L,X
+  16,L,J
+   8,L,X
+   3,L,J
+  10,L,K,G
+  40
+
+#lvl_b-02b (0)
+   4,J
+  15,U,X
+  18,L,J
+  18,U,X
+  58,R,U,J,G
+  35,L,K
+# cue: sign
+  18,R
+  15,R,U,X
+  15,D,C
+   4,L,Z
+  11,L,J
+  15,L,D,X
+   9,L,D
+  16,L,J
+  14,L,X
+  40
+
+#lvl_b-02e
+   1,L,D
+  15,L,D,X
+  20,L,D
+   6,D
+  15,L,U,X
+  15,L,Z
+   2,J
+   5
+  53,R,U,G
+  23,L,J
+  12,L,K,G
+   7,L,J,G
+   5,R,K
+  10,R,D
+  18,U,X
+  13,R,Z
+   2,R,J
+  13,R,D,X
+   2,R,J
+# 4f early hyper
+   8,R,D,X
+  11,R,J
+  15,R,D,X
+   9,R,D
+  40
+
+#lvl_b-02b (1)
+   1,S
+   1,D,J
+   1,O
+  68
+   4,R,Z
+   1,R,J
+  40
+
+#lvl_b-02 (1)
+  10,R,J
+  15,R,D,X
+   4,R,D
+  14,R,D,J
+   4,R,K,G
+  13,R,D,X
+   2,R,J
+  13,R,D,X
+  40
+
+#lvl_b-03 (0)
+   7,R,J
+  13,R,D,X
+  13,R,J
+  11,R
+  13,R,D,X
+   5,R,J
+  15,R,X
+   4,R,Z
+   4,R,J
+  40
+
+#lvl_b-04
+# jump release before sign
+   5,R,D,J
+  12,R,D
+  18,R,D,J
+  15,R,U,X
+   2
+  15,L,D,X
+  17,L,D
+   2,L
+  15,L,U,X
+  13,L,Z
+   2,L,J
+  10,L,D,X
+  40
+
+#lvl_b-03 (1)
+   5,L,D
+  15,L,X
+  10,L
+  30
+  11,R,X
+  23,L,J
+  13,L,U,Z
+  13,L,J,G
+  15,U,X
+  40
+
+#lvl_b-05
+  16,R,J
+  15,R,U,X
+  17,R
+  18,L
+  13,U,X
+  10,R,J
+  28,R,D
+   9,R
+  10,R,X
+  10,R,J,G
+  15,R,D,X
+   1,R
+   5,R,X
+  10
+  15,U,X
+  20
+  13,R,U,Z
+  11,R,J,G
+   7,R,K,G
+  40
+
+#lvl_b-06
+  15,R,X
+  28,R,U,G
+   5
+  13,R,X
+  24,R,J
+  15,U,X
+   5,R
+  15,U,C
+  15,R
+  13,R,D,X
+   2,R,J
+   5,R,D,X
+  40
+
+#lvl_b-07
+   2,R,J
+   8,R
+  17,R,J
+  15,R,U,X
+   5,R
+  17
+   8,R
+  15,R,U,Z
+  13,R
+   4,R,Z
+   2,R,J
+   4,R
+  40
+
+#lvl_b-08
+   4,R
+  30,R,J
+# high dash, wait for x pos (bg line)
+  15,R,X
+   4,R
+  13,R,U,Z
+# roll 2 jumps
+   4,J,G
+  12,R
+  15,R,U,X
+  15,R,C
+  10,R,D
+  16,L,D
+   5,L,X
+  44,R,G
+  11,L,K
+   4,K
+  15,R,Z
+   4,L
+  12,L,J,G
+  10,L,K
+# fastfall bind
+  42,D
+  14,R,U,Z
+# roll 2 jumps
+  12,L,J,G
+  14,R
+  15,R,U,X
+  15,R,C
+  14,R
+  13,R,Z
+   2,R,J
+  40
+
+#lvl_b-09
+  13,R,D,X
+  21,R,J
+  15,R,U,X
+   8,R
+  15,R,U,C
+   6,R
+  73,L
+  15,L,X
+  10,L
+  15,L,U,Z
+   1,L
+   8,L,J
+# jump release left half of sign
+   7,L
+   3,L,G
+  10,L,D
+  19,D
+  55,L
+  15,U,X
+  13,L,C
+   2,J
+  15,U,X
+  11,R,C
+   8,R,J
+  10,K
+
+# sign
+  15,U,X
+  15,R,U,C
+  10,R
+   2
+   4,R,Z
+   2,R,J
+   9,R
+  13,R,J
+  15,R,K,G
+  12,U,X
+  16,L,J
+  15,L,U,Z
+   4,R
+   7,R,J,G
+  13,R
+   3,R,J
+  13,R,Z
+   2,R,J
+  13,R,D,X
+   2,R,J
+   7,R
+  22,L,D
+  13,U,X
+  10,J
+  13,L,Z
+   2,L,J
+  13,L,D,X
+   7,L,J
+  15,L,D,X
+   8,L,D
+   9,D,X
+ 219
+   1,S
+   1,D,J
+ 141

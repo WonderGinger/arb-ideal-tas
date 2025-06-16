@@ -1,0 +1,14 @@
+Read, 2a-arb-start
+#1:02.985(3705)
+Read, 2a-arb-intervention, lvl_3
+#2:14.215(7895)
+Read, 2a-arb-awake, lvl_end_0
+***
+#2:39.409(9377)
+
+Unsafe
+ 480
+Set TASRecorder.BlackFade 1
+  20
+   1,J
+  40

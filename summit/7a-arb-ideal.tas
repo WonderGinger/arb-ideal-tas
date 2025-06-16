@@ -1,0 +1,20 @@
+Read, 7a-arb-0m
+#0:54.281(3193)
+Read, 7a-arb-500m, lvl_b-00
+#2:01.805(7165)
+Read, 7a-arb-1000m, lvl_c-00
+#3:12.661(11333)
+Read, 7a-arb-1500m, lvl_d-00
+#4:34.210(16130)
+Read, 7a-arb-2000m, lvl_e-0b
+#6:05.993(21529)
+Read, 7a-arb-2500m, lvl_f-00 (0)
+#7:31.673(26569)
+Read, 7a-arb-3000m, lvl_g-00
+#10:08.192(35776)
+Unsafe
+ 480
+Set TASRecorder.BlackFade 1
+  20
+   1,J
+  40

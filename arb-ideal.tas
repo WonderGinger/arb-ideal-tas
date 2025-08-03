@@ -1,0 +1,15 @@
+FileTime: 5:39.694(19982)
+#Start
+Read, StartFullGameFile
+
+Read, 0 - Prologue, Start
+
+Read, LoadANoCollects, Prologue
+
+#City
+Read, 1 - city/city-arb-ideal, Start
+
+#Site
+Read, LoadA
+Read, 2 - old site/2a-arb-ideal, Start
+***S

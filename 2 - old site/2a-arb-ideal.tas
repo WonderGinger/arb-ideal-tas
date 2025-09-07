@@ -1,7 +1,0 @@
-#Start
-Read, 2a-arb-start
-#1:02.730(3690)
-Read, 2a-arb-intervention, lvl_3
-#2:13.875(7875)
-Read, 2a-arb-awake, lvl_end_0
-#2:39.086(9358)

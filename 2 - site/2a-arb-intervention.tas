@@ -6,8 +6,10 @@ console p_dreamdash
    5,J,G
 ##
 
-#lvl_3
+#Start
   40
+
+#lvl_3
    1,S
    1,D,J
   34

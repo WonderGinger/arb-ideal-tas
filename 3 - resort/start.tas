@@ -1,0 +1,582 @@
+RecordCount: 1514
+FileTime: 1:52.319(6607)
+
+console load 3
+   1
+
+#Start
+  61
+
+#lvl_s0
+  13,R,Z
+   2,R,J
+   8,R
+  18,R,J
+  15,R,U,X
+   3,R,J,G
+  11,R
+
+  13,R,Z
+   8,R,J
+  40
+
+#lvl_s1
+  13,R,J
+  15,R,U,X
+  21,R
+   4,R,Z
+   2,R,J
+   8,R
+  21,R,J
+  15,U,X
+   9,R,J,G
+  10,R
+  11,R,X
+   7,R,J
+  15,R,X
+   4,R,Z
+   8,R,J
+  40
+
+#lvl_s2
+   3,R
+  11,R,U,X
+  11,J,G
+  20,L,J
+  20,R,D
+   8,R,Z
+   2,R,J
+  19,R
+  15,D,X
+  33,R,D
+  13,R,D,X
+  12,R,J
+  21,R,D
+   2,J
+  10,R,J
+  15,U,X
+  14,R,J,G
+  14,R,K,G
+   7,R
+   4,R,Z
+   2,R,J
+   8,R
+  14,R,J
+   5,R,U,X
+  40
+
+#lvl_s3 (0)
+  13,R
+  15,R,U,X
+   4,R
+   5,R,J,G
+  11,R
+   9,R,U,X
+   6,R,J,G
+  40,R
+  15,R,D
+   4,R,X
+  20,R,J
+  95
+  13,Z
+   2,R,J
+  13,R,D,X
+  40
+
+#lvl_0x-a
+  11,R,J
+  10,R,K,G
+   7,R,J,G
+  15,R,D,X
+   4,R,D
+   1,N
+   2,S
+   1,D,J
+  34
+   2,R,J
+  13,R,D,X
+  10,R,J
+  40
+
+#lvl_00-a
+   6,R,J
+  11,R,Z
+   9,R,J
+   3,R,K,G
+  11,R,X
+  13,R,J
+  13,R,D,X
+   2,R,J
+  15,R,D,X
+   3,R,D
+  18,R,J
+  15,R,D,X
+   5,R,D
+   4,R,J
+  19,R
+   6,R,U,Z
+  40
+
+#lvl_02-a (0)
+   7,R
+   7,R,J
+  11,R,K
+  11,R,Z
+   2,R,J
+  17,R,D
+  15,R,D,X
+   4
+  17,U,X
+  15,R,J
+  12,L
+  15,U,X
+  40
+
+#lvl_02-b (0)
+  11,L
+  15,L,D,X
+   4,L,D,C
+   2,L,J
+  16,L
+   7,L,J
+  40
+
+#lvl_01-b (0)
+   8,L,J
+   7,L,K,G
+  11,L,Z
+   4,L,J
+  10,L,D,X
+  17,L,J,G
+  38,L,K,G
+   1,S
+  15
+   1,S
+  10
+   1,S
+   2
+   1,S
+   9
+  15,Z
+  12,L
+  15,L,X
+   8,L,U,Z
+  40
+
+#lvl_00-b (0)
+   7,L
+  17,L,J
+  13,L,Z
+  14,L,J
+  10,L
+  14,L,X
+   6,L,K
+  22,R
+  11,R,X
+  16,J
+  15,U,X
+   8
+  10,L,J,G
+  40
+
+#lvl_00-c
+  12,R,J
+  12,K
+  11,X
+  34,L,J
+  12,L,K,G
+  12,L,J,G
+  12,L,K
+  14,L,J
+  15,L,X
+  28,L,D
+   2,L,J
+  29,R,D
+   2,R,J
+  27,L,D
+   4,L,J
+  12,L,D,X
+  40
+
+#lvl_00-b (1)
+  15,L,D
+  12,L,D,X
+  40
+
+#lvl_0x-b (0)
+  13,L,J,A
+# jump release lamp
+  14,L
+  15,L,U,X
+   2,L
+  15,L,C
+  15,L
+  15,L,Z
+  13,L
+   4,L,Z
+   2,L,J
+  40
+
+#lvl_s3 (1)
+   8,L
+   4,L,J
+  11,L
+  13,R,D,X
+   2,R,J
+  13,R,D,X
+   4,R,J
+  40
+
+#lvl_0x-b (1)
+   4,R
+  15,D,X
+   8,D
+  11,R,D,X
+   4,R,J
+  15,D,X
+   4,R,Z
+   2,R,J
+   8,R
+   2,R,J
+Repeat, 3
+  13,R,D,X
+   2,R,J
+EndRepeat
+   8,R,D,X
+  40
+
+#lvl_00-b (2)
+   5,R
+   2,R,J
+Repeat, 4
+  13,R,D,X
+   2,R,J
+EndRepeat
+  40
+
+#lvl_01-b (1)
+Repeat, 3
+  13,R,D,X
+   2,R,J
+EndRepeat
+   8,R
+  15,U,C
+  16,R
+  15,R,D,X
+  15,D,C
+   4,R,X
+   5,R,J
+  40
+
+#lvl_02-b (1)
+  16,R,J
+  17,U,X
+  28,R,J
+  12,R
+  12,R,Z
+  19,R,J
+  10,L,D
+  15,L,D,X
+  16,L,D
+  10,L,J
+  10,L,K
+  15,L,X
+  15,D,C
+  10,L
+   9,R,D,X
+  40
+
+#lvl_02-a (1)
+  15,L
+  31,R,D
+  15,R,Z
+  13,R
+  20,R,J,G
+  90
+
+  13,R,Z
+   2,R,J
+   8,R,D,X
+  40
+
+#lvl_03-a (0)
+   5,R,J
+  18,R,D
+  15,R,U,Z
+   2,R
+   3,R,J,G
+  13,R
+   7,R,J
+  15,R,U,Z
+  15,L
+  29,D
+  13,R,D,X
+  11,R,J
+  13,R
+  14,R,J,G
+  14,R,K,G
+  26,R
+  15,R,U,Z
+  12,R,J
+   7,R,K
+  11,R
+   9,U,X
+  40
+
+#lvl_04-b
+  40,R,J
+  15,R,U,Z
+  34,R
+
+  14,R,J,G
+  14,R,K,G
+  14,R,J,G
+   8,R,K
+   4,L,K
+  20,L,D
+  10,D
+  11,L,D
+  15,L,X
+  19,L,D
+   9,L
+   8,R,D,X
+  40
+
+#lvl_03-a (1)
+  14,L
+   2,L,J
+  12,D,X
+   3,R,D
+  25,R,D
+   4,Z
+   2,R,J
+  12,R
+   2,S
+   1,D,J
+  34
+# 3-6
+   4,R
+  15,R,X
+  15,R,C
+
+   4,R,D,X
+   1,R,J
+  40
+
+#lvl_05-a
+  19,R
+  13,U,X
+  21,R,J
+  13,R,Z
+  11,R,J
+   9,R,K,G
+  15,R,X
+  16,R,D
+   4,R,Z
+   2,R,J
+  40
+
+#lvl_06-a
+  18,R,D
+   9,R
+  11,R,J,G
+  11,R,K,G
+  12,R
+  14,R,J
+   6,R,K,G
+  10,R,J,G
+  14,R,K,G
+  31,R,K
+  15,Z
+  25,R,D
+  12,R,D,X
+  10,R,J
+   5,R,K,G
+   8,R,U,Z
+  40
+
+#lvl_07-a (0)
+   7,R
+  15,U,X
+  12,R,J
+  40
+
+#lvl_07-b (0)
+  13,L,J
+   8,L,K,G
+  11,L,X
+  40
+
+#lvl_06-b
+   4,L,J
+# 12-14(3)
+  13,L,D,X
+  35,L,J
+   9,L,K,G
+  15,U,X
+   7,L
+   8
+  11,L,X
+  12,L,J
+  14,L,K,G
+  14,U,X
+  40
+
+#lvl_06-c (0)
+  26,R,J
+  16,U,X
+   9,L,J,G
+   8,L
+   3
+  13,L,D,X
+   2,L,J
+   9,L,D,X
+  40
+
+#lvl_05-c
+  20,D
+   8,L,D
+  18,L
+  11,L,D
+  15,L,X
+# not wallkicking always seems to have a dead frame when sliding against the wall
+  32,L,D
+   2,R,J
+  19,R
+  15,X
+  20,L
+  15,L,Z
+  24,L,D
+  11,L,X
+  13,L,J
+  11,L,X
+  11,L,J
+  12,L,K,G
+  12,L,J,G
+  10,L,K,G
+  15,U,X
+   2,R,J
+  16,R
+  17,R,J
+  15,U,Z
+  17,L,J
+   5,L,K
+  11
+# 15-17 (3)
+  16,J
+  10,Z
+   5,R,J
+  15,R,D,X
+  11,R,J
+# 5-7rkg (3)
+   6,R,K,G
+  15,R,D,X
+   4,R
+  40
+
+#lvl_06-c (1)
+
+# 14-16r (last 3f coyote), crouch seems to not change coyote window
+   9,R
+   6,R,D
+  31,R,D,J
+  15,R,X
+# land in the middle
+  30,R,D
+   4,R,X
+# 51-53 (3) for corner correct
+  52,R,J
+  15,D,X
+   8,D
+   6,D,X
+  40
+
+#lvl_07-b (1)
+   9,L,D
+  11,R,D,X
+   8,R,J
+  13,R,Z
+  21,L,J
+  10,U,X
+  40
+
+#lvl_06-c (2)
+   3,R,J,G
+   8,R
+  15,R,D,X
+  12,R,D,C
+   8,R,J
+  11,R,X
+  40
+
+#lvl_08-c
+
+# 23-26 (4)
+  24,R,J
+   5,R,U,Z
+  31,L
+  15,R,U,X
+  17,R
+  13,L
+
+  29,R,D
+  15,R,U,X
+   8,R
+   7
+   4,R,J
+  15,R,D,X
+  10,R
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+  36,R
+   2,R,J
+  15,D,X
+  13,D
+  40
+
+#lvl_08-b
+   5,L,D
+  15,L,D,X
+  15,D,C
+  10,D
+  15,L,D,X
+  15,D,C
+   4,D
+  15,R,D,X
+  15,D,C
+  13,L,Z
+   9,L,J
+  14,L
+  15,L,U,Z
+  27,L,D
+  14,L,Z
+  40
+
+#lvl_07-b (2)
+   2,L,J
+  16,L,D
+  16,L,D,J
+  13,L,D,X
+   2,L,J
+  15,L,D
+  16,D,X
+  40
+
+#lvl_07-a (1)
+  30,L,D
+  20,R
+
+# 84-89(6)
+  87,R,D
+  11,R,D,X
+# right half of pillar
+  19,R,J
+  18,R,X
+  18,R,Z
+  15,R,X
+  15,R
+   4,R,D,X
+   2,R,J
+   4,R
+#1:51.282(6546)

@@ -1,0 +1,11 @@
+console load 2
+   1
+  36
+
+#Start
+Read, 2 - site/2a-arb-start, Start
+#1:02.730(3690)
+Read, 2 - site/2a-arb-intervention, Start
+#2:13.875(7875)
+Read, 2 - site/2a-arb-awake, Start
+#2:39.086(9358)

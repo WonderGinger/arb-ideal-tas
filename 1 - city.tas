@@ -1,12 +1,10 @@
 console load 1
    1
-  36
 
 #Start
-Read start-to-heart Start
+Read, 1 - city/start-to-heart, Start
 
-
-Read heart-to-rtm Start
+Read, 1 - city/heart-to-rtm, Start
 
 #Overworld
 Add 58
@@ -19,7 +17,7 @@ Add 58
   46
 Add 1
 
-Read crossing-2 Start
+Read, 1 - city/crossing-2, Start
 
 #Overworld
 Add 58
@@ -32,4 +30,4 @@ Add 58
   46
 Add 1
 
-Read chasm Start
+Read, 1 - city/chasm, Start

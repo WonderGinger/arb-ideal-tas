@@ -4,10 +4,18 @@ console load 2 3014.25033974648 152 64 0
    1,S
    1,D,J
   18
+ 190
+Play, lvl_end_0
+
+#Start
+ 110
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
 
 #lvl_end_0
-# pause for s&q at 110
- 190
   15,R,D,X
   15,R,D,C
    4,R,D,X
@@ -121,7 +129,6 @@ console load 2 3014.25033974648 152 64 0
   17,R,J
   14,R,D,X
   31,R,J
-***S
 #0:21.981(1293)
    1,S
    1,D,J

@@ -2,6 +2,7 @@ console load 9
    1
   36
 
+#Start
 #lvl_00
   18
   13,R,Z
@@ -117,11 +118,9 @@ console load 9
   26,R,J
   13,R,Z
   17,R,J
-***S
   15,R,U,X
    6,R,J,G
   12,R
-***S
   11,R,D,J
   13,R,K
    7,R,J,G

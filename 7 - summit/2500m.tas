@@ -54,16 +54,17 @@ console load 7 20247 -10055
  141
 ##
 
+#Start
 #lvl_f-00 (0)
-  77
+  78
   15,L,U,X
 # last 3f ext
   12,L,C
    8,L,J
   15,L,U,X
-   2,L
-  13,L,D,C
-  10,L,J
+   5,L
+   8,L,D,C
+  11,L,J
   40
 
 #lvl_f-01

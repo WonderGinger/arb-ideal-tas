@@ -1,20 +1,24 @@
-Read, 7 - summit/7a-arb-0m
+console load 7
+   1
+
+Read, 7 - summit/0m, Start
 #0:54.281(3193)
-Read, 7 - summit/7a-arb-500m, lvl_b-00
+Read, 7 - summit/500m, Start
 #2:01.839(7167)
-Read, 7 - summit/7a-arb-1000m, lvl_c-00
+Read, 7 - summit/1000m, Start
 #3:12.423(11319)
-Read, 7 - summit/7a-arb-1500m, lvl_d-00
+Read, 7 - summit/1500m, Start
 #4:33.972(16116)
-Read, 7 - summit/7a-arb-2000m, lvl_e-00b
+Read, 7 - summit/2000m, Start
 #6:05.755(21515)
-Read, 7 - summit/7a-arb-2500m, lvl_f-00 (0)
+Read, 7 - summit/2500m, Start
 #7:31.435(26555)
-Read, 7 - summit/7a-arb-3000m, lvl_g-00
+Read, 7 - summit/3000m, Start
 #10:07.954(35762)
-Unsafe
- 480
-Set TASRecorder.BlackFade 1
-  20
-   1,J
-  40
+***S
+#Unsafe
+#  480
+#Set TASRecorder.BlackFade 1
+#   20
+#    1,J
+#   40

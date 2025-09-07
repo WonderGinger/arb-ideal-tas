@@ -99,13 +99,14 @@ console load 7 25527 -11720
  141
 ##
 
+#Start
 #lvl_g-00
-  75
-   5,R,J
+  76
+   4,R,J
   15,U,X
   15,R,U,C
-  15,R
-   3,R,J
+  14,R
+   4,R,J
   15,U,X
   15,U,C
   20,L,J
@@ -118,11 +119,11 @@ console load 7 25527 -11720
   15,U,C
   15,U,X
   13,L,J
-  10,L,K,G
+   8,L,K,G
 
 #flag29
-   5,L
-   7
+   7,L
+   3
   15,U,X
   13,R,J
   15,U,X
@@ -706,6 +707,8 @@ console load 7 25527 -11720
    4,L,Z
    2,L,J
    8,L
+
+#flag2
   15,L,J
   15,L,U,X
   18,U,C
@@ -742,6 +745,8 @@ console load 7 25527 -11720
   10,L,J
   13,R
   13,R,J
+
+#flag1
   11,R,X
   10,R,J
   15,R,U,X
@@ -779,7 +784,7 @@ console load 7 25527 -11720
    2
   15,R,U,C
    8
-   5,R
+   4,R
   14,R,J
   15,R,U,X
    2,R
@@ -788,4 +793,7 @@ console load 7 25527 -11720
   15,R,X
   15,R,U,C
   10,R,U,X
-  13,R,J,G
+  14,R,J,G
+   2,S
+   1,D,J
+  18

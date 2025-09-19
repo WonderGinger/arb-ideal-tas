@@ -1,4 +1,4 @@
-RecordCount: 1243
+RecordCount: 1248
 
 console load 3 4302.8332734108 0
    1
@@ -102,9 +102,12 @@ console load 3 4302.8332734108 0
    2,R,J
   14,R
    7,R,J
+***S
   11,U,X
    6,R,J
-  15,R
+  16,R
+# don't buffer this hyper
+#Invoke, Player.MoveV, -.499
    4,R,Z
    7,R,J
   40
@@ -223,6 +226,7 @@ console load 3 4302.8332734108 0
   40
 
 #lvl_11-a
+***S
   11,R,J,G
   10,R,U,Z
   40
@@ -652,6 +656,6 @@ SaveAndQuitReenter
   34
    2,L
   15,U,X
-
-#1:58.609(6977)
-FileTime
+***S
+#1:58.626(6978)
+FileTime: 1:59.850(7050)

@@ -3,4 +3,16 @@ console load 3
 
 #Start
 Read, 3 - resort/start, Start
+#1:50.993(6529)
 Read, 3 - resort/huge mess, Start
+#3:49.500(13500)
+Read, 3 - resort/elevator shaft, Start
+#4:42.098(16594)
+Read, 3 - resort/presidential suite, Start
+#5:27.981(19293)
+#Unsafe
+#  480
+#Set TASRecorder.BlackFade 1
+#   20
+#    1,J
+#   40

@@ -102,7 +102,6 @@ console load 3 4302.8332734108 0
    2,R,J
   14,R
    7,R,J
-***S
   11,U,X
    6,R,J
   16,R
@@ -226,7 +225,6 @@ console load 3 4302.8332734108 0
   40
 
 #lvl_11-a
-***S
   11,R,J,G
   10,R,U,Z
   40
@@ -656,6 +654,5 @@ SaveAndQuitReenter
   34
    2,L
   15,U,X
-***S
 #1:58.626(6978)
 FileTime: 1:59.850(7050)

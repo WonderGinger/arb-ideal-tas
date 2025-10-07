@@ -1,1 +1,16 @@
-Read, 8 - core/8a-arb-start, Start
+console load 9
+   1
+  36
+console hearts 4
+   1
+
+#Start
+Read, 8 - core/start, Start
+#0:13.430(790)
+Read, 8 - core/into the core, Start
+#0:51.306(3018)
+Read, 8 - core/hot and cold, Start
+#1:35.795(5635)
+Read, 8 - core/hotm 1, Start
+#2:34.377(9081)
+Read, 8 - core/hotm 2, Start

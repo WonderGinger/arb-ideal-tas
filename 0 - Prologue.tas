@@ -1,13 +1,15 @@
+FileTime: 0:27.659(1627)
+
 console load 0
    1
 
 #Start
   61
-
 #lvl_0
    2,R,J
   15,R
    2,R,J
+# 25-26(2)
   25,R
    7,R,J
    1,R,K,G
@@ -29,6 +31,7 @@ console load 0
   26,R
    2,R,J
   12,R
+#0:04.318(254)
   40
 
 #lvl_1
@@ -68,11 +71,13 @@ console load 0
    5,J
    4,R,K,G
   16,R
+#0:10.506(618)
   40
 
 #lvl_2
    2,R,J
 # right of lamp
+***S
   17,R,C
   13,R,J
    3,R,K,G
@@ -89,6 +94,7 @@ console load 0
   15,R
    2,R,J
    8,R
+#0:13.702(806)
   40
 
 #lvl_3
@@ -183,5 +189,5 @@ console load 0
   17,R
    1,S
    1,D,J
+#0:26.061(1533)
  232
-FileTime: 0:27.659(1627)

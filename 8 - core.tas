@@ -8,9 +8,17 @@ console hearts 4
 Read, 8 - core/start, Start
 #0:13.430(790)
 Read, 8 - core/into the core, Start
-#0:51.306(3018)
+#0:51.238(3014)
 Read, 8 - core/hot and cold, Start
-#1:35.795(5635)
+#1:35.625(5625)
 Read, 8 - core/hotm 1, Start
-#2:34.377(9081)
+#2:34.207(9071)
 Read, 8 - core/hotm 2, Start
+#3:31.769(12457)
+
+Unsafe
+ 480
+Set TASRecorder.BlackFade 1
+  20
+   1,J
+  40

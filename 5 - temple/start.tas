@@ -1,0 +1,107 @@
+RecordCount: 113
+
+console load 5
+   1
+
+#Start
+ 190
+
+#lvl_a-00b (0)
+   2,S
+   1,D,J
+***S
+  34
+  13,L,Z
+   2,L,J
+  13,L,D,X
+   2,L,J
+  13,L,D,X
+***S
+   5,L,J
+  13,L,Z
+   2,L,J
+   8,L,D,X
+  40
+
+#lvl_a-00x
+   5,L,D
+   2,L,J
+  13,L,D,X
+   2,L,J
+  15,L,D,X
+  40,R,D
+  55,R
+  14,R,U,Z
+***S
+   1,J
+  19,L,J
+  11,L,K,G
+  11,J,G
+  11,R,K,G
+***S
+   9,R,J,G
+  13,R
+  15,U,X
+   3,R
+  17,J
+  11,R,K
+***S
+   5,R,J,G
+  10,R
+   4,Z
+   2,R,J
+   3,R
+  40
+
+#lvl_a-00b (1)
+***S
+   5,R
+   4,R,J
+Repeat 5
+  13,R,D,X
+   2,R,J
+EndRepeat
+   8,R
+   6,R,J
+  40
+
+#lvl_a-00d (0)
+***S
+  10,R,J
+  18,R,D
+   4,R,D,X
+   3,R,J
+   9,R
+   7,R,D,J
+***S
+# 10-12(3)
+  11,R,K,G
+  15,R,D,X
+   9,R,D
+   7,R,J
+   6,R,K
+  15,R,X
+  11,R,D,C
+   4,R,J
+  15,R,D,X
+#0:11.135(655)
+
+
+
+
+#lvl_a-00d (1)
+  10,R
+  18,R,D
+   4,R,D,X
+   2,R,J
+   8,R
+  22,R,D,J
+  15,R,D,X
+  15,R,D,C
+  13,J
+  15,R,X
+  11,R,D,C
+   4,R,J
+   6,R,D,X
+#0:11.220(660)
+  40

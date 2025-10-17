@@ -20,3 +20,6 @@
 
 ## [summit 0m tas vs pb comparison](https://youtu.be/rQ54M1Sya0U)
 [![thumbnail](https://i.ytimg.com/vi/rQ54M1Sya0U/maxresdefault.jpg)](https://youtu.be/rQ54M1Sya0U)
+
+## [core - 3:31.769](https://www.youtube.com/watch?v=7Pi_doUY4hY)
+[![thumbnail](https://i.ytimg.com/vi/7Pi_doUY4hY/maxresdefault.jpg)](https://www.youtube.com/watch?v=7Pi_doUY4hY)

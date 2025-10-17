@@ -3,7 +3,6 @@ console load 9 2852.46454393864 -1907 -91.47038 -54.852753
 console core 2
   36
 
-***S
   15,U,Z
   12,R,J,G
   12,R,K,G
@@ -164,26 +163,29 @@ console core 2
   40
 
 #lvl_c-03 (1)
-  39,R,D
-  13,R,Z
-   2,R,J
+  37,R,D
+#   22,R,D
+#   17,D
+  12,R,D,X
+   4,R,J
   40
 
 #lvl_c-04
   10,R,J
+  21,R,K,G
   20,R,K,G
-  25,R,K,G
   10,R,J,G
 # 27-29
   28,R
-  13,R,X
-   8,R,J,G
-  22,R
+  12,R,X
+   9,R,J,G
+  23,R
   15,R,X
-  13,R
+  11,R
   15,R,X
-  16,R,G
-  58,R,J,G
-  12,R,K,G
-  37,R
+  22,R,G
+  22,R,J,G
+  34,R,G
+   9,R,K,G
+  36,R
   13,R,Z

@@ -1,22 +1,20 @@
-RecordCount: 113
+RecordCount: 130
 
 console load 5
    1
 
 #Start
- 190
+ 110
 
 #lvl_a-00b (0)
    2,S
    1,D,J
-***S
   34
   13,L,Z
    2,L,J
   13,L,D,X
    2,L,J
   13,L,D,X
-***S
    5,L,J
   13,L,Z
    2,L,J
@@ -32,20 +30,17 @@ console load 5
   40,R,D
   55,R
   14,R,U,Z
-***S
    1,J
   19,L,J
   11,L,K,G
   11,J,G
   11,R,K,G
-***S
    9,R,J,G
   13,R
   15,U,X
    3,R
   17,J
   11,R,K
-***S
    5,R,J,G
   10,R
    4,Z
@@ -54,7 +49,6 @@ console load 5
   40
 
 #lvl_a-00b (1)
-***S
    5,R
    4,R,J
 Repeat 5
@@ -66,14 +60,12 @@ EndRepeat
   40
 
 #lvl_a-00d (0)
-***S
   10,R,J
   18,R,D
    4,R,D,X
    3,R,J
    9,R
    7,R,D,J
-***S
 # 10-12(3)
   11,R,K,G
   15,R,D,X
@@ -85,8 +77,6 @@ EndRepeat
    4,R,J
   15,R,D,X
 #0:11.135(655)
-
-
 
 
 #lvl_a-00d (1)

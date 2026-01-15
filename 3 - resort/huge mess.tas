@@ -1,4 +1,4 @@
-RecordCount: 1248
+RecordCount: 1369
 
 console load 3 4302.8332734108 0
    1
@@ -32,8 +32,8 @@ console load 3 4302.8332734108 0
   10,R,J
    5,R,K,G
   15,U,X
-  15,R,J
-  12,R,K
+  18,R,J
+   8,R,K
   11,L
   11,L,X
    6,L,J
@@ -92,7 +92,29 @@ console load 3 4302.8332734108 0
    6,R,J,G
   11,R,D
    3,R,D,J
+***S
   15,R,D,X
+  16,R,D
+  13,R
+  13,L,D,X
+   2,R,J
+  13,R,U,X
+   2,R,J,G
+  11,R,D
+  13,U,X
+   7,R,J
+  17,R
+   4,R,Z
+   6,R,J
+
+
+
+
+
+
+
+
+
   17,R,D
    7,R,D,J
   15,R,D,X
@@ -109,6 +131,7 @@ console load 3 4302.8332734108 0
 #Invoke, Player.MoveV, -.499
    4,R,Z
    7,R,J
+#0:15.113(889)
   40
 
 #lvl_11-b (0)
@@ -134,17 +157,16 @@ console load 3 4302.8332734108 0
   10,R,J
   13,R,D,X
    6,R,J
-  14,R
-   5,R,J
+  15,R,J
   13,R,D,X
    2,R,J
   13,R
-   5,R,X
+   9,R,X
   40
 
 #lvl_13-b (0)
-  12,R,J
-  20,R,K,G
+  13,R,J
+  19,R,K,G
   15,R,X
   19,R,D
    8,R,J
@@ -154,7 +176,7 @@ console load 3 4302.8332734108 0
   19,D
    4,L,D,X
   10,L,D,J
-  34,L,D
+  33,L,D
   40
 
 #lvl_13-a (0)
@@ -434,21 +456,23 @@ SaveAndQuitReenter
   13,L,D,C
    2,R,J
   15,R,D,X
-  10,R,D
-  20,R
-  10,R,D
+  16,R,D
+  16,R
+   6,R,D
   40
 
 #lvl_10-x (0)
-   9,R,D
-   8,R,Z
+   2,R,D,G
+  14,R,D,X
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_11-x
-   5,R
-   6,R,J
+   7,R
+   2,R,J
   15,R,D,X
-  15,R
+  12,R
    2,R,J
   15,R,U,X
   33,L
@@ -580,7 +604,8 @@ SaveAndQuitReenter
    6,L
   16,L,D,J
   14,R,K
-  15,U,X
+  10,U,X
+   4,L
   40
 
 #lvl_09-b (2)
@@ -589,10 +614,10 @@ SaveAndQuitReenter
   11,L,J,G
    7,L,X
   17
-  10,L,J,G
+  10,J,G
   12,L,X
   12,L,J
-  10,L,C
+  11,L
   11,L,J
   15,L,U,X
    4,L,J,G
@@ -654,5 +679,5 @@ SaveAndQuitReenter
   34
    2,L
   15,U,X
-#1:58.626(6978)
-FileTime: 1:59.850(7050)
+#1:58.524(6972)
+FileTime: 1:59.748(7044)
